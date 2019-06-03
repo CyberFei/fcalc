@@ -1,11 +1,11 @@
 # fcalc
 
+JS 浮点数运算
 Floating-Point Calculation
-用于 JS 浮点数运算
 
 ### 引入
 
-```java
+```
 import "FC" from "path/to/fcalc"
 ```
 
